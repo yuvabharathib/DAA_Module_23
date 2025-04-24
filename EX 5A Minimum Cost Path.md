@@ -16,9 +16,8 @@ To write a Python program using A Naive recursive implementation of Minimum Cost
 ## Program:
 ```
 /*
-Program to implement to find the Minimum Cost Path Problem using  Naive recursive Approach.
+A program to implement to find the Minimum Cost Path Problem using a  Naive recursive Approach.
 
-.
 Developed by: 
 Register Number:  
 */
